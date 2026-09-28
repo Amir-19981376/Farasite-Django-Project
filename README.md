@@ -9,11 +9,17 @@ Integration of an HTML template; dynamic implementation of the "Portfolio" and "
 **Technologies Used**
 
 Python
+
 Django
+
 HTML
+
 CSS
+
 JavaScript
+
 Bootstrap
+
 Database
 
 **Project Objective**
