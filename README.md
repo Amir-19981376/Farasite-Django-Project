@@ -1,16 +1,25 @@
-# Farasite-Django-Project
-وب سایت شخصی با جنگو
+**Personal Website Built with Django**
 
-این پروژه بر پایه یک قالب HTML آماده توسعه داده شده وبخش های داینامیک آن با استفاده از python , Django پیاده سازی شده است.
+This project was developed using a pre-made HTML template, with dynamic sections implemented using Python and Django.
 
-امکانات پروژه
+**Project Features**
 
-استفاده از قالب HTML
-داینامیک سازی بخش نمونه کارهای من وفرم تماس با ما و ذخیره سازی اطلاعات فرم در دیتابیس
-مدیریت اطلاعات ومحتوای سایت
+Integration of an HTML template; dynamic implementation of the "Portfolio" and "Contact Us" sections; storage of form data in a database; and management of site content and data.
 
-تکنولوژی های استفاده شده : Python , Django , html , css , Javascript ,Bootstrap ,Database
+**Technologies Used**
 
-هدف پروژه
+Python
+Django
+HTML
+CSS
+JavaScript
+Bootstrap
+Database
 
-تمرین وپیاده سازی عملی Django و ایجاد یک وب سایت داینامیک و مدیرت اطلاعات در دیتابیس واین پروژه در حال حاضر روی هاست قرار نگرفته وبه صورت Local اجرا میشود.
+**Project Objective**
+
+To practice and gain hands-on experience with Django, and to build a dynamic website with database-driven data management.
+
+**Project Status**
+
+The project is currently running locally and has not yet been deployed to a live server.
